@@ -1,0 +1,11 @@
+/build
+/coverage
+/dist
+/node_modules
+/deploy
+/previous_deploy.tar.gz
+/.yarn
+/.idea
+/.vscode
+/.env*
+!/.env*.dist
